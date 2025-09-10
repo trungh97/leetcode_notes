@@ -5,6 +5,9 @@
 - **Title:**
 - **Link:**
 - **Difficulty:**
+  - [ ] 🟢 Easy
+  - [ ] 🟡 Medium
+  - [ ] 🔴 Hard
 - **Tags:**
 
 ## 2. Code Idea
